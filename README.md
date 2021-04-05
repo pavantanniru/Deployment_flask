@@ -39,6 +39,6 @@ If everything goes well, you should  be able to see the predcited salary vaule o
 ![local-host-result](https://github.com/pavantanniru/Deployment_flask/blob/main/localhost-result.png?raw=true)
 
 4. You can also send direct POST requests to FLask API using Python's inbuilt request module
-Run the beow command to send the request with some pre-popuated values -
+Run the below command to send the request with some pre-popuated values -
 ```
 python request.py
