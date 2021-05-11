@@ -1,0 +1,31 @@
+
+body{
+  background-color:#98ddca;
+  text-align:center;
+
+}
+
+.login h1{
+
+  color:blue;
+
+}
+
+/* input{
+  margin-bottom : 9px;
+} */
+
+.login{
+  position : absolute;
+  top:30%;
+  left:35%;
+  height: 400px;
+  width: 400px;
+}
+
+/* .btn{
+  margin:0 100px;
+  padding:0;
+  width:200px;
+  height:48px;
+} */
